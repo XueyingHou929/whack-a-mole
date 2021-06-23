@@ -1,0 +1,17 @@
+html {
+  background-color: lightblue;
+}
+.text-center {
+  font-family: 'Pacifico', cursive;
+  color: #865439;
+  background-color: lightblue;
+}
+.btn {
+  font-family: sans-serif;
+}
+.score {
+  background-color: #865439;
+  color: white;
+  padding: 2px 20px;
+  border-radius: 5px;
+}
