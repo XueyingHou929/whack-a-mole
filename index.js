@@ -21,5 +21,5 @@ function randomHole(holes){
 function peep(){
   const time = randomTime(200, 1000);
   const hole = randomHole(holes);
-  console.log(time, hole);
+  hole.classList.add('up');
 }
